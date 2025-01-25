@@ -68,9 +68,3 @@ Après la connexion, vous pourrez envoyer des commandes système au serveur. Tap
 ### Contributions
 
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer le projet, veuillez forker le dépôt, créer une branche, et soumettre une pull request.
-
----
-
-## Licence
-
-Ce projet est sous la licence MIT.
