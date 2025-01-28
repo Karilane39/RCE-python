@@ -18,7 +18,7 @@ while True:
     try :
         command = input(">>> ")
         message += command
-        if message == "exit":
+        if message == ["powershell","exit"]:
             client_socket.close()
             break
         else:
